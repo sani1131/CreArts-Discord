@@ -2,10 +2,10 @@
   --version: "v2.3.0";
   --skin: " Spotify Edition";
   --author: " CorellanStoma";
-  --fonts-primary: Quicksand;
-  --fonts-secondary: Quicksand;
-  --fonts-tertiary: Fira Code;
-  --font-display: Quicksand !important;
+  --fonts-primary: Poppin;
+  --fonts-secondary: Poppin;
+  --fonts-tertiary: Poppin;
+  --font-display: Poppin !important;
   --wallpaper: url("none");
   --channel-width: 260px;
   --members-width: 240px;
